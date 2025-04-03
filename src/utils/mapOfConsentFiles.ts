@@ -27,6 +27,8 @@ export const mapOfConsentFiles = {
   Pakistan: {
     consentLang: [
       'default.html',
+      'ur.files',
+      'ur.html',
     ],
   },
   Peru: {
